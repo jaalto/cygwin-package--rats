@@ -1,0 +1,8 @@
+rats			usr/bin/
+rats.1			usr/share/man/man1/
+rats-c.xml		usr/share/rats/
+rats-openssl.xml	usr/share/rats/
+rats-perl.xml		usr/share/rats/
+rats-php.xml		usr/share/rats/
+rats-python.xml		usr/share/rats/
+rats-ruby.xml		usr/share/rats/

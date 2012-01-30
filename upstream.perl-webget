@@ -1,0 +1,2 @@
+tag1: rats
+  http://packages.debian.org/unstable/rats pregexp:orig.tar.gz file:rats_0.1orig.tar.gz new: x:

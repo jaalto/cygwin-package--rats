@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: rats 2.3-1 -- decription
+Subject: Updated: rats 2.3-2 -- decription
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -20,6 +20,7 @@ by Viega and McGraw.
 CHANGES SINCE LAST RELEASE
 ==========================
 
+Cygwin package: file permission corrections
 See homepage for release information.
 
 INSTALL OR UPGRADE NOTES

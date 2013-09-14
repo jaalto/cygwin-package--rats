@@ -49,15 +49,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack rats-2.3-2-src.tar.bz2
+  unpack rats-2.3-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./rats*.sh all
 
 This will create:
-  rats-2.3-2.tar.bz2
-  rats-2.3-2-src.tar.bz2
+  rats-2.3-1.tar.bz2
+  rats-2.3-1-src.tar.bz2
 
 -------------------------------------------
 
@@ -68,9 +68,6 @@ Files included in the binary distro:
 
 Port Notes:
 
------ version 2.3-2 -----
-- Correct *.exe 755
-
 ----- version 2.3-1 -----
 - New upstream release 2010-06-28 Jari Aalto
 
@@ -79,5 +76,5 @@ Port Notes:
 - This port is based on Debian source; rats_2.1-7.diff.gz diff applied.
 - Makefile: target [install]: Added DESTDIR
 
-Cygwin port maintained by: user <jari.aalto@cante.net>
-Copyright (C) 2007-2013 Jari Aalto; Licenced under GPL v2 or later
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2007-2010 Jari Aalto; Licenced under GPL v2 or later

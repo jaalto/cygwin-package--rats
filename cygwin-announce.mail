@@ -5,7 +5,7 @@ Subject: Updated: rats 2.3-1 -- decription
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://www.fortifysoftware.com/security-resources/rats.jsp
+Homepage: http://packages.debian.org/rats
 License : GPL
 
 The Rough Auditing Tool for Security, is a security auditing
